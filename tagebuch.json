@@ -1,0 +1,20 @@
+{
+    "cover": {
+        "title": "Tagebuch",
+        "author": "Sophi Melia"
+    },
+    "pages": [
+        {
+            "left": "Page 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "right": "Page 2\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+        },
+        {
+            "left": "Page 3\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "right": "Page 4\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore."
+        },
+        {
+            "left": "Page 5\nExcepteur sint occaecat cupidatat non proident.",
+            "right": "Page 6\nSunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+    ]
+}
